@@ -20,6 +20,16 @@ Objectives
 - Validate selected vulnerabilities in the authorized laboratory.
 - Document findings and evidence.
 - Recommend appropriate remediation measures.
-
 Out of Scope
 No systems outside the isolated laboratory environment were targeted.
+
+Testing Approach
+The assessment followed a structured penetration testing process:
+1. Reconnaissance
+2. Port and service discovery
+3. Service enumeration
+4. Vulnerability identification
+5. Controlled exploitation and validation
+6. Evidence collection
+7. Risk assessment
+8. Reporting and remediation recommendations
